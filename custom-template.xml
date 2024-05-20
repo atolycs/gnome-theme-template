@@ -1,0 +1,11 @@
+<?xml version="1.0">
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name> Gnome Custom  Wallpaper</name>
+    <filename>@BACKGROUNDDIR@/Light.png</filename>
+    <filename-dark>@BACKGROUNDDIR@/Dark.png</filename-dark>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
